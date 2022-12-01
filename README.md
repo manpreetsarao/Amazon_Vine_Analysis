@@ -1,6 +1,6 @@
 # Amazon_Vine_Analysis
 ## Overview of Analysis
-In this analysis we used a large dataset of Amazon   Vine Program to review the reviews of a particular product. Amazon Vine program allows manufacturers and publishers to receive reviews for their products from their trusted users. So, companies provide free products to Amazon Vine Program customers to review their products and a small amount of fee to Amazon for publishing their product reviews. 
+In this analysis we used a large dataset of Amazon  Vine Program to check the reviews of a particular product. Amazon Vine program allows manufacturers and publishers to receive reviews for their products from their trusted users. So, companies provide free products to Amazon Vine Program customers to review their products and a small amount of fee to Amazon for publishing their product reviews. 
 
 The Purpose of this analysis is to find out the bias toward the favorable reviews from vine members. For this we compared reviews from Vine members and other regular customers.
 
